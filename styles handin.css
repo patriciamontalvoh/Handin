@@ -126,6 +126,7 @@ flex-direction: row;
   margin-top: 30px;
 }
 
+
 .image-shape-02{
   height: 850px;
   width: auto;
@@ -150,6 +151,11 @@ flex-direction: row;
    margin-top: 10px;
  }
 
+ .image-shape-06{
+  height: 400px;
+  width:auto;
+  margin-top: 30px;
+}
  
 .text-box{
   display: flex;
